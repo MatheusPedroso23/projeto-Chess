@@ -16,9 +16,10 @@ C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.Gener
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.AssemblyInfoInputs.cache
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.AssemblyInfo.cs
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.csproj.CoreCompileInputs.cache
-C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.csproj.CopyComplete
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.dll
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\refint\ChessUI.dll
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.pdb
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.genruntimeconfig.cache
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ref\ChessUI.dll
+C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.sourcelink.json
+C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\ChessUI.csproj.Up2Date

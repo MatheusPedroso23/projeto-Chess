@@ -32,6 +32,7 @@
 
             </UniformGrid>
 
+            <ContentControl x:Name="MenuContainer"/>
         </Grid>
     </Viewbox>
     

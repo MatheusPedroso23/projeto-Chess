@@ -28,3 +28,5 @@ C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\App.baml
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\GameOverMenu.baml
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\PromotionMenu.g.cs
 C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\PromotionMenu.baml
+C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\PauseMenu.g.cs
+C:\Users\mathe\source\repos\Chess\ChessUI\obj\Debug\net6.0-windows\PauseMenu.baml
